@@ -8,6 +8,8 @@ getwd()
 
 setwd() 斜線方向/
 
+dir()
+
 vector: c(,,,)
 
 names(): 幫元素取名字/標籤名
