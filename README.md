@@ -10,6 +10,8 @@ setwd() 斜線方向/
 
 dir()
 
+str(data)  show brief structure of data
+
 vector: c(,,,)
 
 names(): 幫元素取名字/標籤名
