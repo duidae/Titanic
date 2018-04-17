@@ -2,8 +2,9 @@
 
 https://joe11051105.gitbooks.io/r_basic/content/
 
+help(指令)
 getwd()
-setwd()
+setwd() 斜線方向/
 vector: c(,,,)
 names(): 幫元素取名字/標籤名
 matrix: matrix(vector, byrow=TRUE/FALSE, nrow=#)
